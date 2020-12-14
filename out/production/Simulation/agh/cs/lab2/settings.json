@@ -1,0 +1,12 @@
+{
+  "width": 50,
+  "height": 50,
+  "jungleWidth": 20,
+  "jungleHeight": 20,
+  "firstAnimalsCount": 100,
+  "maxAnimalsOnSquare": 3,
+  "startEnergy": 100,
+  "dailyEnergyCost": 1,
+  "grassEnergyBonus": 100
+
+}
