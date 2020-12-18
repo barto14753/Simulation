@@ -1,6 +1,8 @@
 # Simulation
 Pierwszy projekt na przedmiot - Programowanie obiektowe
 
+Klasą startową jest klasa App
+
 Do wizualizacji wykorzystałem bibliotekę: Swing
 Do odczytu i zapisu plików JSON wykorzystałem bibliotekę: org.json
 
